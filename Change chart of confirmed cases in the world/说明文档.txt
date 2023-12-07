@@ -1,0 +1,51 @@
+新冠病毒在各国各省确诊病例变化图
+
+【全球各国确诊病例人数变化图（地图）】
+标记:面
+视觉通道：颜色
+【各国确诊病例人数数量变化图（柱图）】
+标记：面
+视觉编码：颜色
+【各国确诊病例人数数量变化图（扇形图）】
+标记：面
+视觉编码：颜色
+数据来源：tableau官网
+抽象任务：展现新冠病毒各国各省确诊病例变化
+抽象任务实现方式：使用地图反映各国病例变化趋势，
+                              使用柱图反映各国病例数量以及排名
+                               使用扇形图对各国确诊数量进行对比
+视图含义：地图：展现新冠病毒各国确诊病例变化，
+                           利用红色颜色的深浅来展现各省疫情的情况
+                 柱形图：反映各国病例数量以及排名，疫情越严重颜色越深
+                 扇形图：对比各国的确诊数量及所占比例
+交互操作：①所有视图都有鼠标悬停的效果，地图还有鼠标选择、高亮的效果，
+                 ②点击时间轴，地图，柱形图以及扇形图会有变化（联动交互）
+                 ③时间轴可自动播放，地图，柱形图和扇形图也可以跟着自动变化
+
+                                 
+Change chart of confirmed cases in Coronavirus in various provinces 
+ 
+[Change Map of the Number of Confirmed Cases in Countries around the World (Map)] 
+Mark: Face 
+Visual channel: color 
+[Change Chart of Number of Confirmed Cases in Countries (Column Chart)]
+Mark: Face 
+Visual coding: color 
+[Change Chart of Number of Confirmed Cases in Countries (Sector Chart)]
+Mark: Face 
+Visual coding: color 
+Data source: tableau official website 
+Abstract task: to show the changes of confirmed cases in various provinces of Novel Coronavirus 
+Abstract task realization: Use maps to reflect the changing trend of cases in various countries, 
+                                        Use column charts to reflect the number and ranking of cases in various countries 
+                                        Use sector charts to compare the number of confirmed cases in different countries 
+View meaning: Map: Show the changes of confirmed cases in Novel Coronavirus countries, 
+                                  Use the depth of red color to show the epidemic situation in each province 
+                        Column chart: It reflects the number and ranking of cases in various countries. The more serious the epidemic, the darker the color 
+                        Sector chart: compare the number and proportion of confirmed cases in various countries 
+Interaction: ① All views have the effect of mouse hover, maps have the effect of mouse selection and highlighting, 
+                   ② Click on the timeline, and the map, column chart and sector chart will change (linkage interaction) 
+                   ③The timeline can be played automatically, and maps, column charts and sector charts can also be changed automatically 
+                 
+          
+
