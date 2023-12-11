@@ -1,30 +1,31 @@
-ĞÂ¹Ú²¡¶¾ÔÚÖĞ¹ú¸÷Ê¡È·Õï²¡Àı±ä»¯Í¼
-
-¡¾¸÷Ê¡È·Õï²¡ÀıÈËÊı±ä»¯Í¼£¨µØÍ¼£©¡¿
-±ê¼Ç:Ãæ
-ÊÓ¾õÍ¨µÀ£ºÑÕÉ«
-¡¾È«¹úÈ·Õï²¡ÀıÈËÊıÊıÁ¿±ä»¯Í¼£¨ÖùÍ¼£©¡¿
-±ê¼Ç£ºÃæ
-ÊÓ¾õ±àÂë£ºÑÕÉ«
-¡¾ÖĞ¹úÊÕµ½µÄÒÔ¼°ÖĞ¹ú¶ÔÍâµÄÎï×ÊÔ®ÖúÊıÁ¿£¨ÖùÍ¼£©¡¿
-±ê¼Ç£ºÃæ
-ÊÓ¾õ±àÂë£ºÑÕÉ«
-³éÏóÈÎÎñ£ºÕ¹ÏÖĞÂ¹Ú²¡¶¾ÖĞ¹ú¸÷Ê¡È·Õï²¡Àı±ä»¯
-³éÏóÈÎÎñÊµÏÖ·½Ê½£ºÊ¹ÓÃµØÍ¼·´Ó³¸÷Ê¡²¡Àı±ä»¯Ç÷ÊÆ£¬
-                              Ê¹ÓÃÖùÍ¼·´Ó³¸÷Ê¡²¡ÀıÊıÁ¿ÒÔ¼°ÅÅÃû
-                               Ê¹ÓÃÕı¸ºÌõĞÎÍ¼·´Ó³ÖĞ¹úÊÕµ½µÄÒÔ¼°ÖĞ¹ú¶ÔÍâµÄÎï×ÊÔ®ÖúÊıÁ¿
-
-
-
-ÊÓÍ¼º¬Òå£ºµØÍ¼£ºÕ¹ÏÖĞÂ¹Ú²¡¶¾ÖĞ¹ú¸÷Ê¡È·Õï²¡Àı±ä»¯£¬
-                           ÀûÓÃºìÉ«ÑÕÉ«µÄÉîÇ³À´Õ¹ÏÖ¸÷Ê¡ÒßÇéµÄÇé¿ö
-                 ÖùĞÎÍ¼£º·´Ó³¸÷Ê¡²¡ÀıÊıÁ¿ÒÔ¼°ÅÅÃû£¬Ç°ÈıÃûÓÃºìÉ«Í»³öÑÏÖØĞÔ
-                 Õı¸ºÌõĞÎÍ¼£º·´Ó³ÖĞ¹úÊÕµ½µÄÒÔ¼°ÖĞ¹ú¶ÔÍâµÄÎï×ÊÔ®ÖúÊıÁ¿£¬ ¸øÓèËû¹úµÄÔ®                                        ÖúÁ¿ÓÃÀ¶É«±íÊ¾£¬ÊıÁ¿´øÉÏ¸ººÅ£» ÊÕµ½µÄÔ®ÖúÁ¿ÓÃºìÉ«±íÊ¾£¬                                        ÊıÁ¿´øÕıºÅ£¬Ïà¶Ô±ÈÀ´Í»³öÖĞ¹úÊÇµÎË®Ö®¶÷£¬Ó¿ÈªÏà±¨µÄÌØµã
-½»»¥²Ù×÷£º¢ÙËùÓĞÊÓÍ¼¶¼ÓĞÊó±êĞüÍ£µÄĞ§¹û£¬µØÍ¼»¹ÓĞÊó±êÑ¡Ôñ¡¢¸ßÁÁµÄĞ§¹û£¬
-                 ¢Úµã»÷Ê±¼äÖá£¬µØÍ¼£¬ÖùĞÎÍ¼ÒÔ¼°±êÌâ»áÓĞ±ä»¯£¨Áª¶¯½»»¥£©
-                 ¢ÛÊ±¼äÖá¿É×Ô¶¯²¥·Å£¬µØÍ¼£¬ÖùĞÎÍ¼ºÍ±êÌâÒ²¿ÉÒÔ¸ú×Å×Ô¶¯±ä»¯
-´´ÒâÁÁµã£ºËæ×ÅÊ±¼äºÍµØÍ¼±ä»»µÄĞÂÎÅ±êÌâ£¬ÈÃÈËÒ»±ß¿´×ÅÒßÇéµÄ·¢Õ¹Ò»±ßÁË½âĞÂÎÅÊ±ÊÂ
-                                 
-                  
-          
-
+Change chart of confirmed cases in Novel Coronavirus in Chinese provinces 
+ 
+"Change Map of Number of Confirmed Cases in Provinces (Map)" 
+Mark: Face 
+Visual channel: color 
+"Change Chart of Number of Confirmed Cases in China (Column Chart)" 
+Mark: Face 
+Visual coding: color 
+"The amount of material aid received by China and China's foreign countries (column chart)" 
+Mark: Face 
+Visual coding: color 
+Abstract Task: Showing the Changes of Confirmed Cases in Novel Coronavirus and Chinese Provinces 
+Implementation of abstract tasks: Use maps to reflect the changing trend of cases in various provinces, 
+Use column charts to reflect the number and ranking of cases in each province 
+Use positive and negative bar charts to reflect the amount of material assistance received by China and foreign countries 
+ 
+ 
+ 
+View meaning: Map: Show the changes of confirmed cases in Novel Coronavirus and Chinese provinces, 
+Use the depth of red color to show the epidemic situation in each province 
+Column chart: reflects the number and ranking of cases in each province, and the top three highlight the severity in red 
+Positive and negative bar chart: It reflects the amount of material aid received by China and China's foreign countries. The amount of aid given to other countries is indicated in blue, and the amount is marked with a negative sign; 
+The amount of aid received is indicated in red, and the amount is marked with a positive sign, which highlights the characteristics that China is the grace of dripping water and the springs report each other 
+Interaction: â‘  All views have the effect of mouse hover, maps have the effect of mouse selection and highlighting, 
+â‘¡ Click on the timeline, and the map, column chart and title will change (linkage interaction) 
+The timeline can be played automatically, and the map, column chart and title can also be changed automatically 
+Creative highlights: The news headlines that change with time and maps make people understand the news and current events while watching the development of the epidemic 
+ 
+ 
+ 
+ 
