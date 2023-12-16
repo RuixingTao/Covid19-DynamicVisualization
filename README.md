@@ -1,13 +1,13 @@
 # Covid19-DynamicVisualization
- Change chart of confirmed cases in Coronavirus in World 
+ Dynamic chart of Coronavirus confirmed cases in various Country 
  
-[Change Map of the Number of Confirmed Cases in Countries around the World (Map)] 
+[Dynamic Map of the Number of Confirmed Cases in Countries around the World (Map)] 
 Mark: Face 
 Visual channel: color 
-[Change Chart of Number of Confirmed Cases in Countries (Column Chart)]
+[Dynamic Chart of Number of Confirmed Cases in Countries (Column Chart)]
 Mark: Face 
 Visual coding: color 
-[Change Chart of Number of Confirmed Cases in Countries (Sector Chart)]
+[Dynamic Chart of Number of Confirmed Cases in Countries (Sector Chart)]
 Mark: Face 
 Visual coding: color 
 Data source: tableau official website 
